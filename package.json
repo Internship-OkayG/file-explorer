@@ -1,0 +1,20 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "a simple file manager with upload ability",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file-manager"
+  ],
+  "author": "mohammad fathi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.16.3",
+    "mongoose": "^6.0.13",
+    "multer": "^1.4.1"
+  }
+}
